@@ -1,0 +1,404 @@
+ARH Management System
+   Patient's Menu
+1 - Doctor
+2 - Patient
+0 - Close Application
+Enter option: 1
+
+ARH Management System
+   Doctor's Menu
+1 - List of Doctors
+2 - Search for Doctor by ID
+3 - Search for Doctor by Name/Partial Name
+4 - Add new Doctor
+5 - Edit Doctor Info
+0 - Return to Main Menu
+Enter option: 1
+
+ID         Name                 Specialist           Schedule   Qualifications
+21         Dr.Tyler             Pharmacy             5-11AM     PharmD,MS,RPh
+32         Dr.Vikram            Family Medicine      10-3AM     MBBS,MD
+
+17         Dr.Amy               General Surgery      8-2AM      BDM    
+
+33         Dr.David             Orthopedics          10-4PM     MBBS,MS
+
+123        Dr. Ross             Neurology            8-10am     Mst,MD 
+
+
+ARH Management System
+   Doctor's Menu
+1 - List of Doctors
+2 - Search for Doctor by ID
+3 - Search for Doctor by Name/Partial Name
+4 - Add new Doctor
+5 - Edit Doctor Info
+0 - Return to Main Menu
+Enter option: 2
+
+Enter Dr ID: 99
+Doctor with ID 99 was not found
+
+ARH Management System
+   Doctor's Menu
+1 - List of Doctors
+2 - Search for Doctor by ID
+3 - Search for Doctor by Name/Partial Name
+4 - Add new Doctor
+5 - Edit Doctor Info
+0 - Return to Main Menu
+Enter option: 2
+
+Enter Dr ID: 21
+21         Dr.Tyler             Pharmacy             5-11AM     PharmD,MS,RPh
+
+ARH Management System
+   Doctor's Menu
+1 - List of Doctors
+2 - Search for Doctor by ID
+3 - Search for Doctor by Name/Partial Name
+4 - Add new Doctor
+5 - Edit Doctor Info
+0 - Return to Main Menu
+Enter option: 3
+
+Enter the doctor name: Am
+ID         Name                 Specialist           Schedule   Qualifications
+32         Dr.Vikram            Family Medicine      10-3AM     MBBS,MD
+
+17         Dr.Amy               General Surgery      8-2AM      BDM    
+
+
+ARH Management System
+   Doctor's Menu
+1 - List of Doctors
+2 - Search for Doctor by ID
+3 - Search for Doctor by Name/Partial Name
+4 - Add new Doctor
+5 - Edit Doctor Info
+0 - Return to Main Menu
+Enter option: 4
+
+ID: 21
+21         Dr.Tyler             Pharmacy             5-11AM     PharmD,MS,RPh
+Doctor with the ID 21 already exists. - cannot add
+
+ARH Management System
+   Doctor's Menu
+1 - List of Doctors
+2 - Search for Doctor by ID
+3 - Search for Doctor by Name/Partial Name
+4 - Add new Doctor
+5 - Edit Doctor Info
+0 - Return to Main Menu
+Enter option: 4
+
+ID: 64
+Name: Dr. Michael Smith
+Specialist: Cardiology
+Schedule: 10pm-6am
+Qualifications: MD,FRCPC
+Room Number: 2
+ID         Name                 Specialist           Schedule   Qualifications
+21         Dr.Tyler             Pharmacy             5-11AM     PharmD,MS,RPh
+32         Dr.Vikram            Family Medicine      10-3AM     MBBS,MD
+
+17         Dr.Amy               General Surgery      8-2AM      BDM    
+
+33         Dr.David             Orthopedics          10-4PM     MBBS,MS
+
+123        Dr. Ross             Neurology            8-10am     Mst,MD 
+
+64         Dr. Michael Smith    Cardiology           10pm-6am   MD,FRCPC
+Doctor with the ID 64 successfully added
+
+ARH Management System
+   Doctor's Menu
+1 - List of Doctors
+2 - Search for Doctor by ID
+3 - Search for Doctor by Name/Partial Name
+4 - Add new Doctor
+5 - Edit Doctor Info
+0 - Return to Main Menu
+Enter option: 5
+
+Enter Dr ID: 99
+Doctor with ID 99 was not found
+ID         Name                 Specialist           Schedule   Qualifications
+21         Dr.Tyler             Pharmacy             5-11AM     PharmD,MS,RPh
+32         Dr.Vikram            Family Medicine      10-3AM     MBBS,MD
+
+17         Dr.Amy               General Surgery      8-2AM      BDM    
+
+33         Dr.David             Orthopedics          10-4PM     MBBS,MS
+
+123        Dr. Ross             Neurology            8-10am     Mst,MD 
+
+64         Dr. Michael Smith    Cardiology           10pm-6am   MD,FRCPC
+
+ARH Management System
+   Doctor's Menu
+1 - List of Doctors
+2 - Search for Doctor by ID
+3 - Search for Doctor by Name/Partial Name
+4 - Add new Doctor
+5 - Edit Doctor Info
+0 - Return to Main Menu
+Enter option: 5
+
+Enter Dr ID: 17
+17         Dr.Amy               General Surgery      8-2AM      BDM    
+
+Name: Dr. Amy Jones
+Specialist: General Surgery 
+Schedule: 8am-4pm
+Qualifications: BDM
+Room Number: 8B
+Doctor with ID 17 was successfully modified
+ID         Name                 Specialist           Schedule   Qualifications
+21         Dr.Tyler             Pharmacy             5-11AM     PharmD,MS,RPh
+32         Dr.Vikram            Family Medicine      10-3AM     MBBS,MD
+
+17         Dr. Amy Jones        General Surgery      8am-4pm    BDM    
+
+33         Dr.David             Orthopedics          10-4PM     MBBS,MS
+
+123        Dr. Ross             Neurology            8-10am     Mst,MD 
+
+64         Dr. Michael Smith    Cardiology           10pm-6am   MD,FRCPC
+
+ARH Management System
+   Doctor's Menu
+1 - List of Doctors
+2 - Search for Doctor by ID
+3 - Search for Doctor by Name/Partial Name
+4 - Add new Doctor
+5 - Edit Doctor Info
+0 - Return to Main Menu
+Enter option: 9
+Enter option: k
+Enter option: 0
+
+ARH Management System
+   Patient's Menu
+1 - Doctor
+2 - Patient
+0 - Close Application
+Enter option: 1
+
+ARH Management System
+   Doctor's Menu
+1 - List of Doctors
+2 - Search for Doctor by ID
+3 - Search for Doctor by Name/Partial Name
+4 - Add new Doctor
+5 - Edit Doctor Info
+0 - Return to Main Menu
+Enter option: 1
+
+ID         Name                 Specialist           Schedule   Qualifications
+21         Dr.Tyler             Pharmacy             5-11AM     PharmD,MS,RPh
+32         Dr.Vikram            Family Medicine      10-3AM     MBBS,MD
+
+17         Dr. Amy Jones        General Surgery      8am-4pm    BDM    
+
+33         Dr.David             Orthopedics          10-4PM     MBBS,MS
+
+123        Dr. Ross             Neurology            8-10am     Mst,MD 
+
+64         Dr. Michael Smith    Cardiology           10pm-6am   MD,FRCPC
+
+ARH Management System
+   Doctor's Menu
+1 - List of Doctors
+2 - Search for Doctor by ID
+3 - Search for Doctor by Name/Partial Name
+4 - Add new Doctor
+5 - Edit Doctor Info
+0 - Return to Main Menu
+Enter option: 0
+
+ARH Management System
+   Patient's Menu
+1 - Doctor
+2 - Patient
+0 - Close Application
+Enter option: 2
+
+ARH Management System
+   Patient Menu
+
+1 - List of Patients
+2 - Search for patient by ID
+3 - Add new Patient
+4 - Edit Patient Info
+0 - Return to Main Menu
+Enter option: 1
+
+ID         Name                 Diagnosis            Gender
+12         Pankaj               Cancer               Male
+13         Sumit                Covid                Male
+14         Alok                 Malaria              Male
+15         Ravi                 Diabetes             Male
+
+ARH Management System
+   Patient Menu
+
+1 - List of Patients
+2 - Search for patient by ID
+3 - Add new Patient
+4 - Edit Patient Info
+0 - Return to Main Menu
+Enter option:  2
+
+Enter Patient ID: 99
+Patient with ID 99 was not found
+
+ARH Management System
+   Patient Menu
+
+1 - List of Patients
+2 - Search for patient by ID
+3 - Add new Patient
+4 - Edit Patient Info
+0 - Return to Main Menu
+Enter option: 2
+
+Enter Patient ID: 14
+14         Alok                 Malaria              Male
+
+ARH Management System
+   Patient Menu
+
+1 - List of Patients
+2 - Search for patient by ID
+3 - Add new Patient
+4 - Edit Patient Info
+0 - Return to Main Menu
+Enter option: 3
+
+ID: 15
+15         Ravi                 Diabetes             Male
+Doctor with the ID 15 already exists. - cannot add
+
+ARH Management System
+   Patient Menu
+
+1 - List of Patients
+2 - Search for patient by ID
+3 - Add new Patient
+4 - Edit Patient Info
+0 - Return to Main Menu
+Enter option: 3
+
+ID: 16
+Name: Ted E. Bear
+Diagnosis: Erratic heartbeat
+Gender: Male
+Age: 3
+ID         Name                 Diagnosis            Gender
+12         Pankaj               Cancer               Male
+13         Sumit                Covid                Male
+14         Alok                 Malaria              Male
+15         Ravi                 Diabetes             Male
+16         Ted E. Bear          Erratic heartbeat    Male
+Patient with ID 16 was successfully added
+
+ARH Management System
+   Patient Menu
+
+1 - List of Patients
+2 - Search for patient by ID
+3 - Add new Patient
+4 - Edit Patient Info
+0 - Return to Main Menu
+Enter option: 4
+
+Enter Dr ID: 99
+Doctor with ID 99 was not found
+ID         Name                 Diagnosis            Gender
+12         Pankaj               Cancer               Male
+13         Sumit                Covid                Male
+14         Alok                 Malaria              Male
+15         Ravi                 Diabetes             Male
+16         Ted E. Bear          Erratic heartbeat    Male
+
+ARH Management System
+   Patient Menu
+
+1 - List of Patients
+2 - Search for patient by ID
+3 - Add new Patient
+4 - Edit Patient Info
+0 - Return to Main Menu
+Enter option: 4
+
+Enter Dr ID: 12
+12         Pankaj               Cancer               Male
+Name: Pankaj K
+Diagnosis: Liver Cancer
+Gender: Male 
+Age: 31
+Patient with ID 12 was successfully modified
+ID         Name                 Diagnosis            Gender
+12         Pankaj K             Liver Cancer         Male
+13         Sumit                Covid                Male
+14         Alok                 Malaria              Male
+15         Ravi                 Diabetes             Male
+16         Ted E. Bear          Erratic heartbeat    Male
+
+ARH Management System
+   Patient Menu
+
+1 - List of Patients
+2 - Search for patient by ID
+3 - Add new Patient
+4 - Edit Patient Info
+0 - Return to Main Menu
+Enter option: 9
+Enter option: f
+Enter option: 0
+
+ARH Management System
+   Patient's Menu
+1 - Doctor
+2 - Patient
+0 - Close Application
+Enter option: 2
+
+ARH Management System
+   Patient Menu
+
+1 - List of Patients
+2 - Search for patient by ID
+3 - Add new Patient
+4 - Edit Patient Info
+0 - Return to Main Menu
+Enter option: 1
+
+ID         Name                 Diagnosis            Gender
+12         Pankaj K             Liver Cancer         Male
+13         Sumit                Covid                Male
+14         Alok                 Malaria              Male
+15         Ravi                 Diabetes             Male
+16         Ted E. Bear          Erratic heartbeat    Male
+
+ARH Management System
+   Patient Menu
+
+1 - List of Patients
+2 - Search for patient by ID
+3 - Add new Patient
+4 - Edit Patient Info
+0 - Return to Main Menu
+Enter option: 0
+
+ARH Management System
+   Patient's Menu
+1 - Doctor
+2 - Patient
+0 - Close Application
+Enter option: 9
+Enter option: y
+Enter option: 0
+ARH Management System successully closed
